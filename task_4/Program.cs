@@ -1,17 +1,14 @@
-﻿Console.clear();
-
-Console.Write("Введите 1е число: ");
-int a = ConvertToInt32(Console.ReadLint());
-
+﻿Console.Write("Введите 1е число: ");
+int a = Convert.ToInt32(Console.ReadLine());
 Console.Write("Введите 2е число: ");
-int b = ConvertToInt32(Console.ReadLint());
+int b = Convert.ToInt32(Console.ReadLine());
+Console.Write("Введите 3е число: ");
+int c = Convert.ToInt32(Console.ReadLine());
 
-Console.Write("Введите 2е число: ");
-int c = ConvertToInt32(Console.ReadLint());
+int maxNumbers = a;
+if (maxNumbers < b)
+    maxNumbers = b;
+if (maxNumbers < c)
+    maxNumbers = c;
 
-if (a >=b $$ a >= c)
-    Console.Write(a);
-else (b >=a $$ b>=c)
-    Console.Write(b);
-else
-    Console.Write(c);
+Console.Write(maxNumbers);
