@@ -1,0 +1,15 @@
+D:\HomeWorkC1\task_dop\bin\Debug\net6.0\task_dop.exe
+D:\HomeWorkC1\task_dop\bin\Debug\net6.0\task_dop.deps.json
+D:\HomeWorkC1\task_dop\bin\Debug\net6.0\task_dop.runtimeconfig.json
+D:\HomeWorkC1\task_dop\bin\Debug\net6.0\task_dop.dll
+D:\HomeWorkC1\task_dop\bin\Debug\net6.0\task_dop.pdb
+D:\HomeWorkC1\task_dop\obj\Debug\net6.0\task_dop.csproj.AssemblyReference.cache
+D:\HomeWorkC1\task_dop\obj\Debug\net6.0\task_dop.GeneratedMSBuildEditorConfig.editorconfig
+D:\HomeWorkC1\task_dop\obj\Debug\net6.0\task_dop.AssemblyInfoInputs.cache
+D:\HomeWorkC1\task_dop\obj\Debug\net6.0\task_dop.AssemblyInfo.cs
+D:\HomeWorkC1\task_dop\obj\Debug\net6.0\task_dop.csproj.CoreCompileInputs.cache
+D:\HomeWorkC1\task_dop\obj\Debug\net6.0\task_dop.dll
+D:\HomeWorkC1\task_dop\obj\Debug\net6.0\refint\task_dop.dll
+D:\HomeWorkC1\task_dop\obj\Debug\net6.0\task_dop.pdb
+D:\HomeWorkC1\task_dop\obj\Debug\net6.0\task_dop.genruntimeconfig.cache
+D:\HomeWorkC1\task_dop\obj\Debug\net6.0\ref\task_dop.dll
