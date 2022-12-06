@@ -1,0 +1,15 @@
+D:\HomeWorkC1\task_25_new\obj\Debug\net6.0\task_25_new.csproj.AssemblyReference.cache
+D:\HomeWorkC1\task_25_new\obj\Debug\net6.0\task_25_new.GeneratedMSBuildEditorConfig.editorconfig
+D:\HomeWorkC1\task_25_new\obj\Debug\net6.0\task_25_new.AssemblyInfoInputs.cache
+D:\HomeWorkC1\task_25_new\obj\Debug\net6.0\task_25_new.AssemblyInfo.cs
+D:\HomeWorkC1\task_25_new\obj\Debug\net6.0\task_25_new.csproj.CoreCompileInputs.cache
+D:\HomeWorkC1\task_25_new\bin\Debug\net6.0\task_25_new.exe
+D:\HomeWorkC1\task_25_new\bin\Debug\net6.0\task_25_new.deps.json
+D:\HomeWorkC1\task_25_new\bin\Debug\net6.0\task_25_new.runtimeconfig.json
+D:\HomeWorkC1\task_25_new\bin\Debug\net6.0\task_25_new.dll
+D:\HomeWorkC1\task_25_new\bin\Debug\net6.0\task_25_new.pdb
+D:\HomeWorkC1\task_25_new\obj\Debug\net6.0\task_25_new.dll
+D:\HomeWorkC1\task_25_new\obj\Debug\net6.0\refint\task_25_new.dll
+D:\HomeWorkC1\task_25_new\obj\Debug\net6.0\task_25_new.pdb
+D:\HomeWorkC1\task_25_new\obj\Debug\net6.0\task_25_new.genruntimeconfig.cache
+D:\HomeWorkC1\task_25_new\obj\Debug\net6.0\ref\task_25_new.dll
