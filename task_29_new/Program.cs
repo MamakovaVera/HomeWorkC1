@@ -6,7 +6,6 @@
 Console.Clear();
 Console.Write("Введите числа через запятую: ");
 string? array = Console.ReadLine();
-   Console.Write( array );
+Console.WriteLine($"[{string.Join ( ",  ", array )}]");
 
- 
 
