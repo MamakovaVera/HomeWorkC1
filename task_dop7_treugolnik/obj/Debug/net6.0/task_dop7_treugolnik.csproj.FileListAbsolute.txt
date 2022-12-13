@@ -1,0 +1,15 @@
+D:\HomeWorkC1\task_dop7_treugolnik\bin\Debug\net6.0\task_dop7_treugolnik.exe
+D:\HomeWorkC1\task_dop7_treugolnik\bin\Debug\net6.0\task_dop7_treugolnik.deps.json
+D:\HomeWorkC1\task_dop7_treugolnik\bin\Debug\net6.0\task_dop7_treugolnik.runtimeconfig.json
+D:\HomeWorkC1\task_dop7_treugolnik\bin\Debug\net6.0\task_dop7_treugolnik.dll
+D:\HomeWorkC1\task_dop7_treugolnik\bin\Debug\net6.0\task_dop7_treugolnik.pdb
+D:\HomeWorkC1\task_dop7_treugolnik\obj\Debug\net6.0\task_dop7_treugolnik.csproj.AssemblyReference.cache
+D:\HomeWorkC1\task_dop7_treugolnik\obj\Debug\net6.0\task_dop7_treugolnik.GeneratedMSBuildEditorConfig.editorconfig
+D:\HomeWorkC1\task_dop7_treugolnik\obj\Debug\net6.0\task_dop7_treugolnik.AssemblyInfoInputs.cache
+D:\HomeWorkC1\task_dop7_treugolnik\obj\Debug\net6.0\task_dop7_treugolnik.AssemblyInfo.cs
+D:\HomeWorkC1\task_dop7_treugolnik\obj\Debug\net6.0\task_dop7_treugolnik.csproj.CoreCompileInputs.cache
+D:\HomeWorkC1\task_dop7_treugolnik\obj\Debug\net6.0\task_dop7_treugolnik.dll
+D:\HomeWorkC1\task_dop7_treugolnik\obj\Debug\net6.0\refint\task_dop7_treugolnik.dll
+D:\HomeWorkC1\task_dop7_treugolnik\obj\Debug\net6.0\task_dop7_treugolnik.pdb
+D:\HomeWorkC1\task_dop7_treugolnik\obj\Debug\net6.0\task_dop7_treugolnik.genruntimeconfig.cache
+D:\HomeWorkC1\task_dop7_treugolnik\obj\Debug\net6.0\ref\task_dop7_treugolnik.dll
