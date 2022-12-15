@@ -1,0 +1,15 @@
+D:\HomeWorkC1\task_dop7_foto\bin\Debug\net6.0\task_dop7_foto.exe
+D:\HomeWorkC1\task_dop7_foto\bin\Debug\net6.0\task_dop7_foto.deps.json
+D:\HomeWorkC1\task_dop7_foto\bin\Debug\net6.0\task_dop7_foto.runtimeconfig.json
+D:\HomeWorkC1\task_dop7_foto\bin\Debug\net6.0\task_dop7_foto.dll
+D:\HomeWorkC1\task_dop7_foto\bin\Debug\net6.0\task_dop7_foto.pdb
+D:\HomeWorkC1\task_dop7_foto\obj\Debug\net6.0\task_dop7_foto.csproj.AssemblyReference.cache
+D:\HomeWorkC1\task_dop7_foto\obj\Debug\net6.0\task_dop7_foto.GeneratedMSBuildEditorConfig.editorconfig
+D:\HomeWorkC1\task_dop7_foto\obj\Debug\net6.0\task_dop7_foto.AssemblyInfoInputs.cache
+D:\HomeWorkC1\task_dop7_foto\obj\Debug\net6.0\task_dop7_foto.AssemblyInfo.cs
+D:\HomeWorkC1\task_dop7_foto\obj\Debug\net6.0\task_dop7_foto.csproj.CoreCompileInputs.cache
+D:\HomeWorkC1\task_dop7_foto\obj\Debug\net6.0\task_dop7_foto.dll
+D:\HomeWorkC1\task_dop7_foto\obj\Debug\net6.0\refint\task_dop7_foto.dll
+D:\HomeWorkC1\task_dop7_foto\obj\Debug\net6.0\task_dop7_foto.pdb
+D:\HomeWorkC1\task_dop7_foto\obj\Debug\net6.0\task_dop7_foto.genruntimeconfig.cache
+D:\HomeWorkC1\task_dop7_foto\obj\Debug\net6.0\ref\task_dop7_foto.dll
