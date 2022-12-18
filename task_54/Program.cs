@@ -9,18 +9,7 @@
 9 5 3 2
 8 4 4 2
 */
-Console.Clear();
 
-Console.WriteLine($"\n Введите матрицу: ");
-int m = InputNumbers("Введите m: ");
-int n = InputNumbers("Введите n: ");
-int[,] array = new int[m, n];
-CreateArray(array);
-WriteArray(array);
-
-Console.WriteLine($"\n Отсортированный массив: ");
-OrderArrayLines(array);
-WriteArray(array);
 
 void OrderArrayLines(int[,] array)
 {
@@ -70,3 +59,13 @@ void WriteArray(int[,] array)
     Console.WriteLine();
   }
 }
+Console.Clear();
+int m = InputNumbers("Введите m: ");
+int n = InputNumbers("Введите n: ");
+int[,] array = new int[m, n];
+CreateArray(array);
+WriteArray(array);
+Console.WriteLine();
+Console.WriteLine($"\n Отсортированный массив: ");
+OrderArrayLines(array);
+WriteArray(array);
