@@ -13,3 +13,15 @@ Console.Clear();
 int n = Convert.ToInt32(Console.ReadLine());
 int m = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine(sum(n, m));
+
+/*int sum()
+{
+    int x = Convert.ToInt32(Console.ReadLine());
+    if (x == 0)
+    return 0;
+    return sum() + x;
+}
+
+Console.Clear();
+Console.WriteLine(sum());
+*/
