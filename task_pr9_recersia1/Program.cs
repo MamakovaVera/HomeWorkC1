@@ -3,9 +3,10 @@
 
 int sum(int n, int m)
 {
-if (m == 0)
-return n;
-return sum(n + 1, m - 1);
+    Console.WriteLine($"{n} {m}");
+    if (m == 0)
+    return n;
+    return sum(n + 1, m - 1);
 }
 
 Console.Clear();
