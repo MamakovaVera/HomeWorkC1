@@ -14,6 +14,7 @@ int n = Convert.ToInt32(Console.ReadLine());
 int m = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine(sum(n, m));
 
+//через рекурсию
 /*int sum()
 {
     int x = Convert.ToInt32(Console.ReadLine());
@@ -25,3 +26,18 @@ Console.WriteLine(sum(n, m));
 Console.Clear();
 Console.WriteLine(sum());
 */
+
+// через процедуру void
+/*void sum(int res)
+{
+int x = Convert.ToInt32(Console.ReadLine());
+    res += x;
+    if (x == 0)
+        Console.WriteLine(res);
+    if (x != 0)
+        sum(res);
+}
+
+int res = 0;
+Console.Clear();
+sum(res);
