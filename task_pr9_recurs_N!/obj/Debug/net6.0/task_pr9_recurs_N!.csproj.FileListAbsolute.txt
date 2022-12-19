@@ -1,0 +1,15 @@
+D:\HomeWorkC1\task_pr9_recurs_N!\bin\Debug\net6.0\task_pr9_recurs_N!.exe
+D:\HomeWorkC1\task_pr9_recurs_N!\bin\Debug\net6.0\task_pr9_recurs_N!.deps.json
+D:\HomeWorkC1\task_pr9_recurs_N!\bin\Debug\net6.0\task_pr9_recurs_N!.runtimeconfig.json
+D:\HomeWorkC1\task_pr9_recurs_N!\bin\Debug\net6.0\task_pr9_recurs_N!.dll
+D:\HomeWorkC1\task_pr9_recurs_N!\bin\Debug\net6.0\task_pr9_recurs_N!.pdb
+D:\HomeWorkC1\task_pr9_recurs_N!\obj\Debug\net6.0\task_pr9_recurs_N!.csproj.AssemblyReference.cache
+D:\HomeWorkC1\task_pr9_recurs_N!\obj\Debug\net6.0\task_pr9_recurs_N!.GeneratedMSBuildEditorConfig.editorconfig
+D:\HomeWorkC1\task_pr9_recurs_N!\obj\Debug\net6.0\task_pr9_recurs_N!.AssemblyInfoInputs.cache
+D:\HomeWorkC1\task_pr9_recurs_N!\obj\Debug\net6.0\task_pr9_recurs_N!.AssemblyInfo.cs
+D:\HomeWorkC1\task_pr9_recurs_N!\obj\Debug\net6.0\task_pr9_recurs_N!.csproj.CoreCompileInputs.cache
+D:\HomeWorkC1\task_pr9_recurs_N!\obj\Debug\net6.0\task_pr9_recurs_N!.dll
+D:\HomeWorkC1\task_pr9_recurs_N!\obj\Debug\net6.0\refint\task_pr9_recurs_N!.dll
+D:\HomeWorkC1\task_pr9_recurs_N!\obj\Debug\net6.0\task_pr9_recurs_N!.pdb
+D:\HomeWorkC1\task_pr9_recurs_N!\obj\Debug\net6.0\task_pr9_recurs_N!.genruntimeconfig.cache
+D:\HomeWorkC1\task_pr9_recurs_N!\obj\Debug\net6.0\ref\task_pr9_recurs_N!.dll
