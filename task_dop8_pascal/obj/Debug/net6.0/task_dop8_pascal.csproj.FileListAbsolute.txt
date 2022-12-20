@@ -1,0 +1,15 @@
+D:\HomeWorkC1\task_dop8_pascal\bin\Debug\net6.0\task_dop8_pascal.exe
+D:\HomeWorkC1\task_dop8_pascal\bin\Debug\net6.0\task_dop8_pascal.deps.json
+D:\HomeWorkC1\task_dop8_pascal\bin\Debug\net6.0\task_dop8_pascal.runtimeconfig.json
+D:\HomeWorkC1\task_dop8_pascal\bin\Debug\net6.0\task_dop8_pascal.dll
+D:\HomeWorkC1\task_dop8_pascal\bin\Debug\net6.0\task_dop8_pascal.pdb
+D:\HomeWorkC1\task_dop8_pascal\obj\Debug\net6.0\task_dop8_pascal.csproj.AssemblyReference.cache
+D:\HomeWorkC1\task_dop8_pascal\obj\Debug\net6.0\task_dop8_pascal.GeneratedMSBuildEditorConfig.editorconfig
+D:\HomeWorkC1\task_dop8_pascal\obj\Debug\net6.0\task_dop8_pascal.AssemblyInfoInputs.cache
+D:\HomeWorkC1\task_dop8_pascal\obj\Debug\net6.0\task_dop8_pascal.AssemblyInfo.cs
+D:\HomeWorkC1\task_dop8_pascal\obj\Debug\net6.0\task_dop8_pascal.csproj.CoreCompileInputs.cache
+D:\HomeWorkC1\task_dop8_pascal\obj\Debug\net6.0\task_dop8_pascal.dll
+D:\HomeWorkC1\task_dop8_pascal\obj\Debug\net6.0\refint\task_dop8_pascal.dll
+D:\HomeWorkC1\task_dop8_pascal\obj\Debug\net6.0\task_dop8_pascal.pdb
+D:\HomeWorkC1\task_dop8_pascal\obj\Debug\net6.0\task_dop8_pascal.genruntimeconfig.cache
+D:\HomeWorkC1\task_dop8_pascal\obj\Debug\net6.0\ref\task_dop8_pascal.dll
