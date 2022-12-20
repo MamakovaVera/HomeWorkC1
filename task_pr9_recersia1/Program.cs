@@ -41,3 +41,4 @@ int x = Convert.ToInt32(Console.ReadLine());
 int res = 0;
 Console.Clear();
 sum(res);
+*/
