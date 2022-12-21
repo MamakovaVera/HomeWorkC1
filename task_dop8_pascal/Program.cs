@@ -8,6 +8,40 @@
 1331
 14641
 */
+int factorial(int n)
+{
+    int i, x = 1;
+    for (i = 1; i <= n; i++)
+    {
+        x *= i;
+    }
+    return x;
+}
+
+
+void ReleaseTask(int n)
+{
+    for (int i = 0; i < n; i++)
+    {
+        for (int j = 0; j <= (n - i); j++)
+        {
+            Console.Write(" ");
+        }
+        for (int j = 0; j <= i; j++)
+        {
+            Console.Write(" ");
+            Console.Write(factorial(i) / (factorial(j) * factorial(i - j)));
+        }
+        Console.WriteLine();
+    }
+}
+
+
+Console.Write("Введите количество строк треугольника Паскаля: ");
+int n = Convert.ToInt32(Console.ReadLine());
+ReleaseTask(n);
+
+/*
 Console.Clear();
 int n = InputNumbers("Введите количество строк: ");
 double[,] pascalTriangle = new double[n + 1, 2 * n + 1];
@@ -75,3 +109,4 @@ int InputNumbers(string input)
   int output = Convert.ToInt32(Console.ReadLine());
   return output;
 }
+*/
